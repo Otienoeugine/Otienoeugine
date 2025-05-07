@@ -1,4 +1,5 @@
-Hi!My name is Otieno Eugine
+# Hi! 👋 My name is Otieno Eugine
+
 Web Developer and Designer
 I recently started coding and am eager to learn various programming languages.
 
